@@ -1,0 +1,22 @@
+{
+    "name": "doxedo/doxedo",
+    "description": "Doxedo full application",
+    "homepage": "http://www.github.com/doxedo/doxedo",
+    "keywords": ["php", "doxedo"],
+    "type": "metapackage",
+    "minimum-stability": "dev" ,
+    "require": {
+        "symfony/console": "2.4.*@dev",
+        "doxedo/core": "dev-master",
+    },
+    "require-dev": {
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "psr-0": {
+            "Doxedo\\": "src/"
+        }
+    }
+}
