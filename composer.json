@@ -2,6 +2,7 @@
     "name": "doxedo/doxedo",
     "description": "Doxedo full application",
     "homepage": "http://www.github.com/doxedo/doxedo",
+    "license": "MIT",
     "keywords": ["php", "doxedo"],
     "type": "metapackage",
     "minimum-stability": "dev" ,
