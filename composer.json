@@ -6,8 +6,7 @@
     "type": "metapackage",
     "minimum-stability": "dev" ,
     "require": {
-        "symfony/console": "2.4.*@dev",
-        "doxedo/core": "dev-master",
+        "doxedo/core": "dev-master"
     },
     "require-dev": {
     },
